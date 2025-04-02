@@ -7,7 +7,7 @@ A quote that motivates me everyday is:
 >When possibilities stretch like the sky, there is no endpoint. \
 
 Here is a picture of the ECE Building
-![ECE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstudyabroad.ucsd.edu%2Fstudents%2Facademic-planning%2Fmaps%2Fengineering%2Fece.html&psig=AOvVaw0vCDGvtDgTjWPj-ZgAifoz&ust=1743703138135000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCOjcP2uYwDFQAAAAAdAAAAABAE)
+![ECE](https://studyabroad.ucsd.edu/_images/majors-maps/major-modules/ece-building.jpg)
 ## Git Commands I've Learned
 ```
 git status
