@@ -6,7 +6,7 @@ I am a third year transfer student who is studying **Computer Engineering** at U
 A quote that motivates me everyday is:
 >When possibilities stretch like the sky, there is no endpoint. \
 
-Here is a picture of the ECE Building
+Here is a picture of the ECE Building \
 ![ECE](https://studyabroad.ucsd.edu/_images/majors-maps/major-modules/ece-building.jpg)
 ## Git Commands I've Learned
 ```
