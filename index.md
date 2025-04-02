@@ -21,7 +21,7 @@ git commit
 
 ### Links
 Github Link: [Github](https://github.com/erictuannong) \
-Link that brings you to the beginning: [Top](#Erictuan-Nong) \
+Link that brings you to my morning routine: [Top](#morning-routine) \
 Link that brings you to about me: [About-me](#about-me)
 
 ### Cool Facts
