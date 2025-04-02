@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a *third* year transfer student who is studying **Computer Engineering** at UCSD
+I am a *third* year <ins>transfer student</ins> who is studying **Computer Engineering** at UCSD
 A quote that motivates me everyday is:
 >When possibilities stretch like the sky, there is no endpoint.
 
@@ -30,11 +30,11 @@ Link that brings you to about me: [About-me](#about-me)
 - I enjoy driving my car
 
 ### Morning Routine
-1. <Use Tongue Scraper>
-2. <Brush Teeth>
-3. <Skincare>
-4. <Eat Breakfast>
-5. <Change and Go To School>
+1. Use Tongue Scraper
+2. Brush Teeth
+3. Skincare
+4. Eat Breakfast
+5. Change and Go To School
 
 ## Tasks
 - [x] Finishing This Lab
